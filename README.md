@@ -77,7 +77,7 @@ Who are the high, medium, and low value customers?
 
 > *Power BI Dashboard — Sales & CRM Analytics*
 
-![Dashboard](dashboard/Dashboard.pdf)
+![Dashboard](Dashboard/Dashboard.png)
 
 **Dashboard contains:**
 - 3 KPI cards — Total Revenue (29M), Total Orders (28K), Avg Order Value (1.06K)
