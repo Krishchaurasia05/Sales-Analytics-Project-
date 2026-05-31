@@ -66,9 +66,9 @@ Which products generate the most revenue each year?
 Who are the high, medium, and low value customers?
 
 **Key findings:**
-- **High value customers (≥ $8,000 lifetime spend):** 47.59% of total revenue
-- **Medium value customers ($5,000–$8,000):** 38.33% of total revenue
-- **Low value customers (< $5,000):** 14.08% of total revenue
+- **High value customers (≥ $5,000 lifetime spend):** 47.59% of total revenue
+- **Medium value customers ($2,000–$5,000):** 38.33% of total revenue
+- **Low value customers (< $2,000):** 14.08% of total revenue
 - A relatively small group of high-value customers drives nearly half of all revenue
 
 ---
