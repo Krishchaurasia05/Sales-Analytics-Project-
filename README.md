@@ -92,9 +92,9 @@ Who are the high, medium, and low value customers?
 
 | Script | Description |
 |---|---|
-| `T01_revenue_trend.sql` | Monthly & quarterly revenue using window functions |
-| `T02_top_products.sql` | Top products ranked by revenue per category |
-| `T03_customer_segments.sql` | Customer segmentation by lifetime spend |
+| `Q01_revenue_trend.sql` | Monthly & quarterly revenue using window functions |
+| `Q02_top_products.sql` | Top products ranked by revenue per category |
+| `Q03_customer_segments.sql` | Customer segmentation by lifetime spend |
 
 ---
 
