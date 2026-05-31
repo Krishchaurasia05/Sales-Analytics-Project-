@@ -45,7 +45,7 @@ SQL Data Warehouse (previous project)
 
 ## Business Questions Answered
 
-### T-01 — Monthly & Quarterly Revenue Trend
+### Q-01 — Monthly & Quarterly Revenue Trend
 How has total revenue trended month-over-month and quarter-over-quarter?
 
 **Key findings:**
@@ -53,7 +53,7 @@ How has total revenue trended month-over-month and quarter-over-quarter?
 - From 2012 onwards, **December consistently became the peak month**, suggesting a seasonal shift driven by year-end demand
 - Overall revenue showed a growing trend from 2011 to 2013
 
-### T-02 — Top Products by Revenue
+### Q-02 — Top Products by Revenue
 Which products generate the most revenue each year?
 
 **Key findings:**
@@ -62,7 +62,7 @@ Which products generate the most revenue each year?
 - **2013:** Mountain-200 Black, Size 42 was the top performer
 - The **Bikes category** dominates revenue across all years — contributing the majority of total sales
 
-### T-03 — Customer Segmentation by Lifetime Value
+### Q-03 — Customer Segmentation by Lifetime Value
 Who are the high, medium, and low value customers?
 
 **Key findings:**
